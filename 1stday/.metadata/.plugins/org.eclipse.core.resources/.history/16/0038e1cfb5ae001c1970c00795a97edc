@@ -1,0 +1,11 @@
+package Demopackage;
+
+public class Float {
+	public static void main(String[] args) {
+		float minv=10;
+		System.out.println(minv);
+		System.out.println(Float.MIN_VALUE);
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+package Demopackage;
+
+public class charbool {
+	public static void main(String[] args) {
+		//(Character)
+		char mychar="R";
+		System.out.println(mychar);
+	}
+
+}

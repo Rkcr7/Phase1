@@ -1,0 +1,16 @@
+package Demopackage;
+
+public class charbool {
+	public static void main(String[] args) {
+		
+		char mychar='R';
+		System.out.println(mychar);
+		
+		char myuni='\u295E';
+		System.out.println(myuni);
+
+		
+		
+	}
+
+}

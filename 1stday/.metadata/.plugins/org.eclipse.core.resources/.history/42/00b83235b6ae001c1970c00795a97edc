@@ -1,0 +1,22 @@
+package Demopackage;
+
+public class Float {
+	public static void main(String[] args) {
+		int intv=10;
+		float floatv=10.25f;
+		double dbv=10.25d;
+		
+		intv=5/2;
+		System.out.println(intv);
+		
+		floatv=5f/2f;
+		System.out.println(floatv);
+		
+		dbv=5d/2d;
+		System.out.println(dbv);
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package Demopackage;
+
+public class Float {
+	public static void main(String[] args) {
+		//(float)
+		float minv = Float.MIN_VALUE;
+		float maxv = Float.MAX_VALUE;
+		System.out.println(minv);
+	}
+
+}
